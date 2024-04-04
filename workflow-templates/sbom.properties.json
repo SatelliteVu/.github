@@ -1,0 +1,6 @@
+{
+  "name": "SatVu SBOM Workflow",
+  "description": "SatVu starter workflow to record project SBOM records",
+  "iconName": "cyclonedx",
+  "categories": ["code-quality"]
+}
